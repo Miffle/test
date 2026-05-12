@@ -3,7 +3,9 @@
     "id": "landrop",
     "name": "LanDrop",
     "description": "Отправка файлов по локальной сети",
-    "repository": "https://github.com/Miffle/Landrop",
-    "releases_api": "https://api.github.com/repos/Miffle/Landrop/releases/latest"
+    "author": "ftliwdt",
+    "repo": "https://github.com/Miffle/Landrop",
+    "releases_api": "https://api.github.com/repos/Miffle/Landrop/releases/latest",
+    "version": "v1.0.2"
   }
 ]
